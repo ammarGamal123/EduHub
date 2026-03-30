@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09516491-934F-482B-A5AD-1EA93012C1AD}|SchoolProject.Api\\SchoolProject.Api.csproj|d:\\active-work\\dotnet\\coding-fucture\\coding-future-practice\\cleanarchitecture\\schoolproject\\schoolproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09516491-934F-482B-A5AD-1EA93012C1AD}|SchoolProject.Api\\SchoolProject.Api.csproj|solutionrelative:schoolproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC84BC5-1CA3-481B-A946-22C6D6FBB0B8}|SchoolProject.Service\\SchoolProject.Service.csproj|d:\\active-work\\dotnet\\coding-fucture\\coding-future-practice\\cleanarchitecture\\schoolproject\\schoolproject.service\\schoolproject.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7EC84BC5-1CA3-481B-A946-22C6D6FBB0B8}|SchoolProject.Service\\SchoolProject.Service.csproj|solutionrelative:schoolproject.service\\schoolproject.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271A6AE-1BD9-405E-A5B8-6A033550B806}|SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj|d:\\active-work\\dotnet\\coding-fucture\\coding-future-practice\\cleanarchitecture\\schoolproject\\schoolproject.infrastructure\\schoolproject.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2271A6AE-1BD9-405E-A5B8-6A033550B806}|SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj|solutionrelative:schoolproject.infrastructure\\schoolproject.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E12970-05A6-4C64-8219-914E09E0EBEC}|SchoolProject.Data\\SchoolProject.Data.csproj|d:\\active-work\\dotnet\\coding-fucture\\coding-future-practice\\cleanarchitecture\\schoolproject\\schoolproject.data\\schoolproject.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4E12970-05A6-4C64-8219-914E09E0EBEC}|SchoolProject.Data\\SchoolProject.Data.csproj|solutionrelative:schoolproject.data\\schoolproject.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8799C8FA-14C8-46CA-9780-EE0B0D533781}|SchoolProject.Core\\SchoolProject.Core.csproj|d:\\active-work\\dotnet\\coding-fucture\\coding-future-practice\\cleanarchitecture\\schoolproject\\schoolproject.core\\schoolproject.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8799C8FA-14C8-46CA-9780-EE0B0D533781}|SchoolProject.Core\\SchoolProject.Core.csproj|solutionrelative:schoolproject.core\\schoolproject.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09516491-934F-482B-A5AD-1EA93012C1AD}|SchoolProject.Api\\SchoolProject.Api.csproj|d:\\active-work\\dotnet\\coding-fucture\\coding-future-practice\\cleanarchitecture\\schoolproject\\schoolproject.api\\schoolproject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09516491-934F-482B-A5AD-1EA93012C1AD}|SchoolProject.Api\\SchoolProject.Api.csproj|solutionrelative:schoolproject.api\\schoolproject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271A6AE-1BD9-405E-A5B8-6A033550B806}|SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj|d:\\active-work\\dotnet\\coding-fucture\\coding-future-practice\\cleanarchitecture\\schoolproject\\schoolproject.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2271A6AE-1BD9-405E-A5B8-6A033550B806}|SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj|solutionrelative:schoolproject.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E12970-05A6-4C64-8219-914E09E0EBEC}|SchoolProject.Data\\SchoolProject.Data.csproj|d:\\active-work\\dotnet\\coding-fucture\\coding-future-practice\\cleanarchitecture\\schoolproject\\schoolproject.data\\appmetadata\\router.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E12970-05A6-4C64-8219-914E09E0EBEC}|SchoolProject.Data\\SchoolProject.Data.csproj|solutionrelative:schoolproject.data\\appmetadata\\router.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E12970-05A6-4C64-8219-914E09E0EBEC}|SchoolProject.Data\\SchoolProject.Data.csproj|d:\\active-work\\dotnet\\coding-fucture\\coding-future-practice\\cleanarchitecture\\schoolproject\\schoolproject.data\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E12970-05A6-4C64-8219-914E09E0EBEC}|SchoolProject.Data\\SchoolProject.Data.csproj|solutionrelative:schoolproject.data\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E12970-05A6-4C64-8219-914E09E0EBEC}|SchoolProject.Data\\SchoolProject.Data.csproj|d:\\active-work\\dotnet\\coding-fucture\\coding-future-practice\\cleanarchitecture\\schoolproject\\schoolproject.data\\entities\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E12970-05A6-4C64-8219-914E09E0EBEC}|SchoolProject.Data\\SchoolProject.Data.csproj|solutionrelative:schoolproject.data\\entities\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E12970-05A6-4C64-8219-914E09E0EBEC}|SchoolProject.Data\\SchoolProject.Data.csproj|d:\\active-work\\dotnet\\coding-fucture\\coding-future-practice\\cleanarchitecture\\schoolproject\\schoolproject.data\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E12970-05A6-4C64-8219-914E09E0EBEC}|SchoolProject.Data\\SchoolProject.Data.csproj|solutionrelative:schoolproject.data\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E12970-05A6-4C64-8219-914E09E0EBEC}|SchoolProject.Data\\SchoolProject.Data.csproj|d:\\active-work\\dotnet\\coding-fucture\\coding-future-practice\\cleanarchitecture\\schoolproject\\schoolproject.data\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E12970-05A6-4C64-8219-914E09E0EBEC}|SchoolProject.Data\\SchoolProject.Data.csproj|solutionrelative:schoolproject.data\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09516491-934F-482B-A5AD-1EA93012C1AD}|SchoolProject.Api\\SchoolProject.Api.csproj|d:\\active-work\\dotnet\\coding-fucture\\coding-future-practice\\cleanarchitecture\\schoolproject\\schoolproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09516491-934F-482B-A5AD-1EA93012C1AD}|SchoolProject.Api\\SchoolProject.Api.csproj|solutionrelative:schoolproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SchoolProject.Data.csproj",
+              "DocumentMoniker": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Data\\SchoolProject.Data.csproj",
+              "RelativeDocumentMoniker": "SchoolProject.Data\\SchoolProject.Data.csproj",
+              "ToolTip": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Data\\SchoolProject.Data.csproj",
+              "RelativeToolTip": "SchoolProject.Data\\SchoolProject.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T16:03:59.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchoolProject.Api.csproj",
+              "DocumentMoniker": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Api\\SchoolProject.Api.csproj",
+              "RelativeDocumentMoniker": "SchoolProject.Api\\SchoolProject.Api.csproj",
+              "ToolTip": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Api\\SchoolProject.Api.csproj",
+              "RelativeToolTip": "SchoolProject.Api\\SchoolProject.Api.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T16:02:46.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SchoolProject.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:09:47.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Router.cs",
+              "DocumentMoniker": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Data\\AppMetaData\\Router.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Data\\AppMetaData\\Router.cs",
+              "ToolTip": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Data\\AppMetaData\\Router.cs",
+              "RelativeToolTip": "SchoolProject.Data\\AppMetaData\\Router.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:07:08.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Data\\Entities\\Subject.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Data\\Entities\\Subject.cs",
+              "ToolTip": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Data\\Entities\\Subject.cs",
+              "RelativeToolTip": "SchoolProject.Data\\Entities\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:15:25.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolProject.Api\\appsettings.json",
+              "ToolTip": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Api\\appsettings.json",
+              "RelativeToolTip": "SchoolProject.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T12:51:27.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolProject.Service.csproj",
+              "DocumentMoniker": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Service\\SchoolProject.Service.csproj",
+              "RelativeDocumentMoniker": "SchoolProject.Service\\SchoolProject.Service.csproj",
+              "ToolTip": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Service\\SchoolProject.Service.csproj",
+              "RelativeToolTip": "SchoolProject.Service\\SchoolProject.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T16:04:30.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Data\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Data\\Entities\\Student.cs",
+              "ToolTip": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Data\\Entities\\Student.cs",
+              "RelativeToolTip": "SchoolProject.Data\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:15:18.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolProject.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj",
+              "ToolTip": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj",
+              "RelativeToolTip": "SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T16:04:03.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Data\\Entities\\Instructor.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Data\\Entities\\Instructor.cs",
+              "ToolTip": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Data\\Entities\\Instructor.cs",
+              "RelativeToolTip": "SchoolProject.Data\\Entities\\Instructor.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:14:43.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Data\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Data\\Entities\\Department.cs",
+              "ToolTip": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Data\\Entities\\Department.cs",
+              "RelativeToolTip": "SchoolProject.Data\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:13:32.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SchoolProject.Core.csproj",
+              "DocumentMoniker": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Core\\SchoolProject.Core.csproj",
+              "RelativeDocumentMoniker": "SchoolProject.Core\\SchoolProject.Core.csproj",
+              "ToolTip": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Core\\SchoolProject.Core.csproj",
+              "RelativeToolTip": "SchoolProject.Core\\SchoolProject.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T12:53:43.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Api\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Api\\Program.cs",
+              "ToolTip": "D:\\Active-Work\\DotNet\\Coding-Fucture\\Coding-Future-Practice\\CleanArchitecture\\SchoolProject\\SchoolProject.Api\\Program.cs",
+              "RelativeToolTip": "SchoolProject.Api\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:51:33.655Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

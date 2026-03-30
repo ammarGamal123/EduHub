@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ActiveDebugProfile>https</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>D:\Active-Work\DotNet\Coding-Fucture\Coding-Future-Practice\CleanArchitecture\SchoolProject\SchoolProject.Api\Properties\PublishProfiles\site7787-WebDeploy.pubxml</NameOfLastUsedPublishProfile>
+  </PropertyGroup>
+</Project>
