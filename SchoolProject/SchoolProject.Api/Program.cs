@@ -52,7 +52,7 @@ builder.Services.Configure<RequestLocalizationOptions>(option =>
 // Add DB ConnectionString
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("NewRemoteConnection"));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("LocalConnection"));
 });
 
 var app = builder.Build();

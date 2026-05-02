@@ -34,6 +34,8 @@ Key quirks:
 
 - EF Core + SQL Server
 - Connection strings in `SchoolProject.Api/appsettings.json` (key: `NewRemoteConnection` for remote, `LocalConnection` for local)
+- **Local dev uses `(localdb)\MSSQLLocalDB`** — the user's Windows account is a sysadmin/dbcreator on LocalDB. Named Express instances (`.\SQLEXPRESS`, `.\SQLEXPRESS1`) likely deny `CREATE DATABASE` permission.
+- `ApplicationDbContext.OnConfiguring()` fallback was broken (passed literal `"LocalConnection"` string). Fixed to use the hardcoded LocalDB connection string.
 - Migrations in `SchoolProject.Infrastructure/Migrations/`, managed from `SchoolProject.Api` (it holds the EF Design tools)
 - Add migration: `dotnet ef migrations add <Name> --project SchoolProject.Infrastructure --startup-project SchoolProject.Api`
 - Apply: `dotnet ef database update --project SchoolProject.Infrastructure --startup-project SchoolProject.Api`

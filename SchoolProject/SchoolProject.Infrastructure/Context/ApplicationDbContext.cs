@@ -23,7 +23,7 @@ namespace SchoolProject.Infrastructure.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("LocalConnection"); // For fallback
+                optionsBuilder.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=School.DB;Trusted_Connection=True;TrustServerCertificate=True;");
             }
             base.OnConfiguring(optionsBuilder);
         }
